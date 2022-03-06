@@ -1,1 +1,2 @@
 #Sample B.txt file
+#Updated B.txt file
